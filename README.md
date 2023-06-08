@@ -24,8 +24,8 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 8.Save and Run the Program.
 
 ## Program :
-#### Developed by: Pradeep RAj.P
-#### Register number: 212222240073
+#### Developed by: Santhosh.L
+#### Register number: 212222100046
 ```
 
 #include "common.h" 
